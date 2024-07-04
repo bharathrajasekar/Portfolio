@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+
+}
+section{
+    width: 100%;
+    height: 100vh;
+}
+.sec1{
+    background-image: url(w1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec2{
+    background-image: url(w2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec3{
+    background-image: url(w3.jpg);
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.sec4{
+    background-image: url(w4.jpg);
+    background-size: cover;
+    
+    background-attachment: fixed;
+}
+.sec5{
+    background-image: url(w5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec6{
+    background-image: url(w6.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec7{
+    background-image: url(w7.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.content{
+    background-color: rgba(0, 0, 0,.5);
+    padding: 1rem,5rem;
+    color: white;
+    
+}
+.data{
+    padding-top: 1.5cm;
+    padding-left: 2cm;
+    padding-right: 20cm;
+    
+    padding: 5rem,5rem;
+    color:black;
+    
+    
+    
+    
+
+}
+.data1{
+    padding-top: 1.5cm;
+    padding-left: 2cm;
+    padding-right: 20cm;
+    
+    padding: 5rem,5rem;
+    color:white
+    
+    
+    
+    
+
+}
